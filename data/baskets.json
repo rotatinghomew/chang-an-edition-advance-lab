@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "B001",
+    "venue": "M2",
+    "sold": "2027-01-02",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B002",
+    "venue": "M3",
+    "sold": "2027-01-03",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B003",
+    "venue": "M1",
+    "sold": "2027-01-04",
+    "promo": false,
+    "cash": 5800,
+    "voucher": "V003",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B004",
+    "venue": "M2",
+    "sold": "2027-01-05",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B005",
+    "venue": "M3",
+    "sold": "2027-01-06",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B006",
+    "venue": "M1",
+    "sold": "2027-01-07",
+    "promo": true,
+    "cash": 6400,
+    "voucher": "V006",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B007",
+    "venue": "M2",
+    "sold": "2027-01-08",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B008",
+    "venue": "M3",
+    "sold": "2027-01-09",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B009",
+    "venue": "M1",
+    "sold": "2027-01-10",
+    "promo": false,
+    "cash": 5800,
+    "voucher": "V009",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B010",
+    "venue": "M2",
+    "sold": "2027-01-11",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B011",
+    "venue": "M3",
+    "sold": "2027-01-12",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B012",
+    "venue": "M1",
+    "sold": "2027-01-13",
+    "promo": true,
+    "cash": 6400,
+    "voucher": "V012",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B013",
+    "venue": "M2",
+    "sold": "2027-01-14",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B014",
+    "venue": "M3",
+    "sold": "2027-01-15",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B015",
+    "venue": "M1",
+    "sold": "2027-01-16",
+    "promo": false,
+    "cash": 6400,
+    "voucher": "V015",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B016",
+    "venue": "M2",
+    "sold": "2027-01-17",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B017",
+    "venue": "M3",
+    "sold": "2027-01-18",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B018",
+    "venue": "M1",
+    "sold": "2027-01-19",
+    "promo": true,
+    "cash": 7000,
+    "voucher": "V018",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B019",
+    "venue": "M2",
+    "sold": "2027-01-20",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B020",
+    "venue": "M3",
+    "sold": "2027-01-21",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B021",
+    "venue": "M1",
+    "sold": "2027-01-22",
+    "promo": false,
+    "cash": 5800,
+    "voucher": "V021",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B022",
+    "venue": "M2",
+    "sold": "2027-01-23",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B023",
+    "venue": "M3",
+    "sold": "2027-01-24",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B024",
+    "venue": "M1",
+    "sold": "2027-01-25",
+    "promo": true,
+    "cash": 6400,
+    "voucher": "V024",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B025",
+    "venue": "M2",
+    "sold": "2027-01-26",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B026",
+    "venue": "M3",
+    "sold": "2027-01-27",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B027",
+    "venue": "M1",
+    "sold": "2027-01-28",
+    "promo": false,
+    "cash": 5800,
+    "voucher": "V027",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B028",
+    "venue": "M2",
+    "sold": "2027-01-29",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B029",
+    "venue": "M3",
+    "sold": "2027-01-30",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B030",
+    "venue": "M1",
+    "sold": "2027-01-31",
+    "promo": true,
+    "cash": 7000,
+    "voucher": "V030",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B031",
+    "venue": "M2",
+    "sold": "2027-02-01",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B032",
+    "venue": "M3",
+    "sold": "2027-02-02",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B033",
+    "venue": "M1",
+    "sold": "2027-02-03",
+    "promo": false,
+    "cash": 7000,
+    "voucher": "V033",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B034",
+    "venue": "M2",
+    "sold": "2027-02-04",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B035",
+    "venue": "M3",
+    "sold": "2027-02-05",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B036",
+    "venue": "M1",
+    "sold": "2027-02-06",
+    "promo": true,
+    "cash": 6400,
+    "voucher": "V036",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B037",
+    "venue": "M2",
+    "sold": "2027-02-07",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B038",
+    "venue": "M3",
+    "sold": "2027-02-08",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B039",
+    "venue": "M1",
+    "sold": "2027-02-09",
+    "promo": false,
+    "cash": 6400,
+    "voucher": "V039",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B040",
+    "venue": "M2",
+    "sold": "2027-02-10",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B041",
+    "venue": "M3",
+    "sold": "2027-02-11",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B042",
+    "venue": "M1",
+    "sold": "2027-02-12",
+    "promo": true,
+    "cash": 7000,
+    "voucher": "V042",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B043",
+    "venue": "M2",
+    "sold": "2027-02-13",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B044",
+    "venue": "M3",
+    "sold": "2027-02-14",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B045",
+    "venue": "M1",
+    "sold": "2027-02-15",
+    "promo": false,
+    "cash": 5800,
+    "voucher": "V045",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B046",
+    "venue": "M2",
+    "sold": "2027-02-16",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B047",
+    "venue": "M3",
+    "sold": "2027-02-17",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B048",
+    "venue": "M1",
+    "sold": "2027-02-18",
+    "promo": true,
+    "cash": 6400,
+    "voucher": "V048",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B049",
+    "venue": "M2",
+    "sold": "2027-02-19",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B050",
+    "venue": "M3",
+    "sold": "2027-02-20",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B051",
+    "venue": "M1",
+    "sold": "2027-02-21",
+    "promo": false,
+    "cash": 6400,
+    "voucher": "V051",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B052",
+    "venue": "M2",
+    "sold": "2027-02-22",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B053",
+    "venue": "M3",
+    "sold": "2027-02-23",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B054",
+    "venue": "M1",
+    "sold": "2027-02-24",
+    "promo": true,
+    "cash": 5800,
+    "voucher": "V054",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B055",
+    "venue": "M2",
+    "sold": "2027-02-25",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B056",
+    "venue": "M3",
+    "sold": "2027-02-26",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B057",
+    "venue": "M1",
+    "sold": "2027-02-27",
+    "promo": false,
+    "cash": 6400,
+    "voucher": "V057",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B058",
+    "venue": "M2",
+    "sold": "2027-02-28",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B059",
+    "venue": "M3",
+    "sold": "2027-03-01",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B060",
+    "venue": "M1",
+    "sold": "2027-03-02",
+    "promo": true,
+    "cash": 5800,
+    "voucher": "V060",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B061",
+    "venue": "M2",
+    "sold": "2027-03-03",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B062",
+    "venue": "M3",
+    "sold": "2027-03-04",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B063",
+    "venue": "M1",
+    "sold": "2027-03-05",
+    "promo": false,
+    "cash": 5800,
+    "voucher": "V063",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B064",
+    "venue": "M2",
+    "sold": "2027-03-06",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B065",
+    "venue": "M3",
+    "sold": "2027-03-07",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B066",
+    "venue": "M1",
+    "sold": "2027-03-08",
+    "promo": true,
+    "cash": 6400,
+    "voucher": "V066",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B067",
+    "venue": "M2",
+    "sold": "2027-03-09",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B068",
+    "venue": "M3",
+    "sold": "2027-03-10",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B069",
+    "venue": "M1",
+    "sold": "2027-03-11",
+    "promo": false,
+    "cash": 6400,
+    "voucher": "V069",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B070",
+    "venue": "M2",
+    "sold": "2027-03-12",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B071",
+    "venue": "M3",
+    "sold": "2027-03-13",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B072",
+    "venue": "M1",
+    "sold": "2027-03-14",
+    "promo": true,
+    "cash": 7000,
+    "voucher": "V072",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B073",
+    "venue": "M2",
+    "sold": "2027-03-15",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B074",
+    "venue": "M3",
+    "sold": "2027-03-16",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B075",
+    "venue": "M1",
+    "sold": "2027-03-17",
+    "promo": false,
+    "cash": 7000,
+    "voucher": "V075",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B076",
+    "venue": "M2",
+    "sold": "2027-03-18",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B077",
+    "venue": "M3",
+    "sold": "2027-03-19",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B078",
+    "venue": "M1",
+    "sold": "2027-03-20",
+    "promo": true,
+    "cash": 7000,
+    "voucher": "V078",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B079",
+    "venue": "M2",
+    "sold": "2027-03-21",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B080",
+    "venue": "M3",
+    "sold": "2027-03-22",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B081",
+    "venue": "M1",
+    "sold": "2027-03-23",
+    "promo": false,
+    "cash": 7000,
+    "voucher": "V081",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B082",
+    "venue": "M2",
+    "sold": "2027-03-24",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B083",
+    "venue": "M3",
+    "sold": "2027-03-25",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B084",
+    "venue": "M1",
+    "sold": "2027-03-26",
+    "promo": true,
+    "cash": 6400,
+    "voucher": "V084",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B085",
+    "venue": "M2",
+    "sold": "2027-03-27",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B086",
+    "venue": "M3",
+    "sold": "2027-03-28",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B087",
+    "venue": "M1",
+    "sold": "2027-03-29",
+    "promo": false,
+    "cash": 7000,
+    "voucher": "V087",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B088",
+    "venue": "M2",
+    "sold": "2027-03-30",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B089",
+    "venue": "M3",
+    "sold": "2027-03-31",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B090",
+    "venue": "M1",
+    "sold": "2027-04-01",
+    "promo": true,
+    "cash": 5800,
+    "voucher": "V090",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B091",
+    "venue": "M2",
+    "sold": "2027-04-02",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B092",
+    "venue": "M3",
+    "sold": "2027-04-03",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B093",
+    "venue": "M1",
+    "sold": "2027-04-04",
+    "promo": false,
+    "cash": 6400,
+    "voucher": "V093",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B094",
+    "venue": "M2",
+    "sold": "2027-04-05",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B095",
+    "venue": "M3",
+    "sold": "2027-04-06",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B096",
+    "venue": "M1",
+    "sold": "2027-04-07",
+    "promo": true,
+    "cash": 5800,
+    "voucher": "V096",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B097",
+    "venue": "M2",
+    "sold": "2027-04-08",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B098",
+    "venue": "M3",
+    "sold": "2027-04-09",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B099",
+    "venue": "M1",
+    "sold": "2027-04-10",
+    "promo": false,
+    "cash": 6400,
+    "voucher": "V099",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B100",
+    "venue": "M2",
+    "sold": "2027-04-11",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B101",
+    "venue": "M3",
+    "sold": "2027-04-12",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B102",
+    "venue": "M1",
+    "sold": "2027-04-13",
+    "promo": true,
+    "cash": 7000,
+    "voucher": "V102",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B103",
+    "venue": "M2",
+    "sold": "2027-04-14",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B104",
+    "venue": "M3",
+    "sold": "2027-04-15",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B105",
+    "venue": "M1",
+    "sold": "2027-04-16",
+    "promo": false,
+    "cash": 7000,
+    "voucher": "V105",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B106",
+    "venue": "M2",
+    "sold": "2027-04-17",
+    "promo": true,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B107",
+    "venue": "M3",
+    "sold": "2027-04-18",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B108",
+    "venue": "M1",
+    "sold": "2027-04-19",
+    "promo": true,
+    "cash": 7000,
+    "voucher": "V108",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B109",
+    "venue": "M2",
+    "sold": "2027-04-20",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B110",
+    "venue": "M3",
+    "sold": "2027-04-21",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B111",
+    "venue": "M1",
+    "sold": "2027-04-22",
+    "promo": false,
+    "cash": 7000,
+    "voucher": "V111",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B112",
+    "venue": "M2",
+    "sold": "2027-04-23",
+    "promo": true,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B113",
+    "venue": "M3",
+    "sold": "2027-04-24",
+    "promo": false,
+    "cash": 5800,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B114",
+    "venue": "M1",
+    "sold": "2027-04-25",
+    "promo": true,
+    "cash": 7000,
+    "voucher": "V114",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B115",
+    "venue": "M2",
+    "sold": "2027-04-26",
+    "promo": false,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B116",
+    "venue": "M3",
+    "sold": "2027-04-27",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B117",
+    "venue": "M1",
+    "sold": "2027-04-28",
+    "promo": false,
+    "cash": 7000,
+    "voucher": "V117",
+    "voucher_value": 1600
+  },
+  {
+    "id": "B118",
+    "venue": "M2",
+    "sold": "2027-04-29",
+    "promo": true,
+    "cash": 7000,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B119",
+    "venue": "M3",
+    "sold": "2027-04-30",
+    "promo": false,
+    "cash": 6400,
+    "voucher": null,
+    "voucher_value": 0
+  },
+  {
+    "id": "B120",
+    "venue": "M1",
+    "sold": "2027-05-01",
+    "promo": true,
+    "cash": 5800,
+    "voucher": "V120",
+    "voucher_value": 1600
+  }
+]

@@ -1,0 +1,1922 @@
+[
+  {
+    "id": "A001-1",
+    "order": "B001",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A001-2",
+    "order": "B001",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A002-1",
+    "order": "B002",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A002-2",
+    "order": "B002",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A003-1",
+    "order": "B003",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A003-2",
+    "order": "B003",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A004-1",
+    "order": "B004",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A004-2",
+    "order": "B004",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A005-1",
+    "order": "B005",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A005-2",
+    "order": "B005",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A006-1",
+    "order": "B006",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A006-2",
+    "order": "B006",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A007-1",
+    "order": "B007",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A007-2",
+    "order": "B007",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A008-1",
+    "order": "B008",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A008-2",
+    "order": "B008",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A009-1",
+    "order": "B009",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A009-2",
+    "order": "B009",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A010-1",
+    "order": "B010",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A010-2",
+    "order": "B010",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A011-1",
+    "order": "B011",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A011-2",
+    "order": "B011",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A012-1",
+    "order": "B012",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A012-2",
+    "order": "B012",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A013-1",
+    "order": "B013",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A013-2",
+    "order": "B013",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A014-1",
+    "order": "B014",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A014-2",
+    "order": "B014",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A015-1",
+    "order": "B015",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A015-2",
+    "order": "B015",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A016-1",
+    "order": "B016",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A016-2",
+    "order": "B016",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A017-1",
+    "order": "B017",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A017-2",
+    "order": "B017",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A018-1",
+    "order": "B018",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A018-2",
+    "order": "B018",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A019-1",
+    "order": "B019",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A019-2",
+    "order": "B019",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A020-1",
+    "order": "B020",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A020-2",
+    "order": "B020",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A021-1",
+    "order": "B021",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A021-2",
+    "order": "B021",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A022-1",
+    "order": "B022",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A022-2",
+    "order": "B022",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A023-1",
+    "order": "B023",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A023-2",
+    "order": "B023",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A024-1",
+    "order": "B024",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A024-2",
+    "order": "B024",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A025-1",
+    "order": "B025",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A025-2",
+    "order": "B025",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A026-1",
+    "order": "B026",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A026-2",
+    "order": "B026",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A027-1",
+    "order": "B027",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A027-2",
+    "order": "B027",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A028-1",
+    "order": "B028",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A028-2",
+    "order": "B028",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A029-1",
+    "order": "B029",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A029-2",
+    "order": "B029",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A030-1",
+    "order": "B030",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A030-2",
+    "order": "B030",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A031-1",
+    "order": "B031",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A031-2",
+    "order": "B031",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A032-1",
+    "order": "B032",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A032-2",
+    "order": "B032",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A033-1",
+    "order": "B033",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A033-2",
+    "order": "B033",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A034-1",
+    "order": "B034",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A034-2",
+    "order": "B034",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A035-1",
+    "order": "B035",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A035-2",
+    "order": "B035",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A036-1",
+    "order": "B036",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A036-2",
+    "order": "B036",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A037-1",
+    "order": "B037",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A037-2",
+    "order": "B037",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A038-1",
+    "order": "B038",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A038-2",
+    "order": "B038",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A039-1",
+    "order": "B039",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A039-2",
+    "order": "B039",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A040-1",
+    "order": "B040",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A040-2",
+    "order": "B040",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A041-1",
+    "order": "B041",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A041-2",
+    "order": "B041",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A042-1",
+    "order": "B042",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A042-2",
+    "order": "B042",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A043-1",
+    "order": "B043",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A043-2",
+    "order": "B043",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A044-1",
+    "order": "B044",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A044-2",
+    "order": "B044",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A045-1",
+    "order": "B045",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A045-2",
+    "order": "B045",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A046-1",
+    "order": "B046",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A046-2",
+    "order": "B046",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A047-1",
+    "order": "B047",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A047-2",
+    "order": "B047",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A048-1",
+    "order": "B048",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A048-2",
+    "order": "B048",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A049-1",
+    "order": "B049",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A049-2",
+    "order": "B049",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A050-1",
+    "order": "B050",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A050-2",
+    "order": "B050",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A051-1",
+    "order": "B051",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A051-2",
+    "order": "B051",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A052-1",
+    "order": "B052",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A052-2",
+    "order": "B052",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A053-1",
+    "order": "B053",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A053-2",
+    "order": "B053",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A054-1",
+    "order": "B054",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A054-2",
+    "order": "B054",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A055-1",
+    "order": "B055",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A055-2",
+    "order": "B055",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A056-1",
+    "order": "B056",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A056-2",
+    "order": "B056",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A057-1",
+    "order": "B057",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A057-2",
+    "order": "B057",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A058-1",
+    "order": "B058",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A058-2",
+    "order": "B058",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A059-1",
+    "order": "B059",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A059-2",
+    "order": "B059",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A060-1",
+    "order": "B060",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A060-2",
+    "order": "B060",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A061-1",
+    "order": "B061",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A061-2",
+    "order": "B061",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A062-1",
+    "order": "B062",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A062-2",
+    "order": "B062",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A063-1",
+    "order": "B063",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A063-2",
+    "order": "B063",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A064-1",
+    "order": "B064",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A064-2",
+    "order": "B064",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A065-1",
+    "order": "B065",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A065-2",
+    "order": "B065",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A066-1",
+    "order": "B066",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A066-2",
+    "order": "B066",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A067-1",
+    "order": "B067",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A067-2",
+    "order": "B067",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A068-1",
+    "order": "B068",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A068-2",
+    "order": "B068",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A069-1",
+    "order": "B069",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A069-2",
+    "order": "B069",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A070-1",
+    "order": "B070",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A070-2",
+    "order": "B070",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A071-1",
+    "order": "B071",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A071-2",
+    "order": "B071",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A072-1",
+    "order": "B072",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A072-2",
+    "order": "B072",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A073-1",
+    "order": "B073",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A073-2",
+    "order": "B073",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A074-1",
+    "order": "B074",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A074-2",
+    "order": "B074",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A075-1",
+    "order": "B075",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A075-2",
+    "order": "B075",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A076-1",
+    "order": "B076",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A076-2",
+    "order": "B076",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A077-1",
+    "order": "B077",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A077-2",
+    "order": "B077",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A078-1",
+    "order": "B078",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A078-2",
+    "order": "B078",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A079-1",
+    "order": "B079",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A079-2",
+    "order": "B079",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A080-1",
+    "order": "B080",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A080-2",
+    "order": "B080",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A081-1",
+    "order": "B081",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A081-2",
+    "order": "B081",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A082-1",
+    "order": "B082",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A082-2",
+    "order": "B082",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A083-1",
+    "order": "B083",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A083-2",
+    "order": "B083",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A084-1",
+    "order": "B084",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A084-2",
+    "order": "B084",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A085-1",
+    "order": "B085",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A085-2",
+    "order": "B085",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A086-1",
+    "order": "B086",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A086-2",
+    "order": "B086",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A087-1",
+    "order": "B087",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A087-2",
+    "order": "B087",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A088-1",
+    "order": "B088",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A088-2",
+    "order": "B088",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A089-1",
+    "order": "B089",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A089-2",
+    "order": "B089",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A090-1",
+    "order": "B090",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A090-2",
+    "order": "B090",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A091-1",
+    "order": "B091",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A091-2",
+    "order": "B091",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A092-1",
+    "order": "B092",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A092-2",
+    "order": "B092",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A093-1",
+    "order": "B093",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A093-2",
+    "order": "B093",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A094-1",
+    "order": "B094",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A094-2",
+    "order": "B094",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A095-1",
+    "order": "B095",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A095-2",
+    "order": "B095",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A096-1",
+    "order": "B096",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A096-2",
+    "order": "B096",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A097-1",
+    "order": "B097",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A097-2",
+    "order": "B097",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A098-1",
+    "order": "B098",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A098-2",
+    "order": "B098",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A099-1",
+    "order": "B099",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A099-2",
+    "order": "B099",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A100-1",
+    "order": "B100",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A100-2",
+    "order": "B100",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A101-1",
+    "order": "B101",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A101-2",
+    "order": "B101",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A102-1",
+    "order": "B102",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A102-2",
+    "order": "B102",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A103-1",
+    "order": "B103",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A103-2",
+    "order": "B103",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A104-1",
+    "order": "B104",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A104-2",
+    "order": "B104",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A105-1",
+    "order": "B105",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A105-2",
+    "order": "B105",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A106-1",
+    "order": "B106",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A106-2",
+    "order": "B106",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A107-1",
+    "order": "B107",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A107-2",
+    "order": "B107",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A108-1",
+    "order": "B108",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A108-2",
+    "order": "B108",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A109-1",
+    "order": "B109",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A109-2",
+    "order": "B109",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A110-1",
+    "order": "B110",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A110-2",
+    "order": "B110",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A111-1",
+    "order": "B111",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A111-2",
+    "order": "B111",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A112-1",
+    "order": "B112",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A112-2",
+    "order": "B112",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A113-1",
+    "order": "B113",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A113-2",
+    "order": "B113",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A114-1",
+    "order": "B114",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A114-2",
+    "order": "B114",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A115-1",
+    "order": "B115",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A115-2",
+    "order": "B115",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A116-1",
+    "order": "B116",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A116-2",
+    "order": "B116",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A117-1",
+    "order": "B117",
+    "product": "I2",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A117-2",
+    "order": "B117",
+    "product": "I3",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A118-1",
+    "order": "B118",
+    "product": "I3",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A118-2",
+    "order": "B118",
+    "product": "I4",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A119-1",
+    "order": "B119",
+    "product": "I4",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A119-2",
+    "order": "B119",
+    "product": "I1",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  },
+  {
+    "id": "A120-1",
+    "order": "B120",
+    "product": "I1",
+    "kind": "直营",
+    "cost": 2400,
+    "reference": 2800
+  },
+  {
+    "id": "A120-2",
+    "order": "B120",
+    "product": "I2",
+    "kind": "寄售",
+    "cost": 1500,
+    "reference": 2200
+  }
+]

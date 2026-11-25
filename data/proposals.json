@@ -1,0 +1,72 @@
+[
+  {
+    "id": "Q1",
+    "venues": [
+      "M1",
+      "M2"
+    ],
+    "products": [
+      "I1",
+      "I2"
+    ],
+    "mode": "分成",
+    "guarantee": 28000,
+    "threshold": 82,
+    "lower_bps": 3400,
+    "upper_bps": 4300,
+    "fund": "F1",
+    "state": "已签回"
+  },
+  {
+    "id": "Q2",
+    "venues": [
+      "M2",
+      "M3"
+    ],
+    "products": [
+      "I2",
+      "I3"
+    ],
+    "mode": "出资",
+    "guarantee": 26000,
+    "threshold": 46,
+    "lower_bps": 2100,
+    "upper_bps": 3300,
+    "fund": "F1",
+    "state": "待签"
+  },
+  {
+    "id": "Q3",
+    "venues": [
+      "M1"
+    ],
+    "products": [
+      "I4"
+    ],
+    "mode": "买断",
+    "guarantee": 21000,
+    "threshold": 0,
+    "lower_bps": 10000,
+    "upper_bps": 10000,
+    "fund": "F1",
+    "state": "试售"
+  },
+  {
+    "id": "Q4",
+    "venues": [
+      "M1",
+      "M3"
+    ],
+    "products": [
+      "I1",
+      "I3"
+    ],
+    "mode": "分成",
+    "guarantee": 33500,
+    "threshold": 70,
+    "lower_bps": 2300,
+    "upper_bps": 3200,
+    "fund": "F2",
+    "state": "待签"
+  }
+]

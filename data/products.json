@@ -1,0 +1,26 @@
+[
+  {
+    "id": "I1",
+    "family": "印章",
+    "owner": "M1",
+    "consignor": "M2"
+  },
+  {
+    "id": "I2",
+    "family": "礼盒",
+    "owner": "M2",
+    "consignor": "M1"
+  },
+  {
+    "id": "I3",
+    "family": "手办",
+    "owner": "M3",
+    "consignor": "M1"
+  },
+  {
+    "id": "I4",
+    "family": "礼盒",
+    "owner": "M2",
+    "consignor": "M3"
+  }
+]

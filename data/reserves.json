@@ -1,0 +1,14 @@
+[
+  {
+    "id": "F1",
+    "limit": 80500,
+    "advanced": 15600,
+    "maturity_days": 21
+  },
+  {
+    "id": "F2",
+    "limit": 38000,
+    "advanced": 0,
+    "maturity_days": 21
+  }
+]

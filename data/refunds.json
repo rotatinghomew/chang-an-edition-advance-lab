@@ -1,0 +1,194 @@
+[
+  {
+    "id": "R005",
+    "line": "A005-2",
+    "day": "2027-01-10",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R010",
+    "line": "A010-2",
+    "day": "2027-01-15",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R015",
+    "line": "A015-2",
+    "day": "2027-01-20",
+    "cash": 1800,
+    "returned_voucher": 600,
+    "confirmed": "2027-01-23"
+  },
+  {
+    "id": "R020",
+    "line": "A020-2",
+    "day": "2027-01-25",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R025",
+    "line": "A025-2",
+    "day": "2027-01-30",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R030",
+    "line": "A030-2",
+    "day": "2027-02-04",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R035",
+    "line": "A035-2",
+    "day": "2027-02-09",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R040",
+    "line": "A040-2",
+    "day": "2027-02-14",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R045",
+    "line": "A045-2",
+    "day": "2027-02-19",
+    "cash": 1800,
+    "returned_voucher": 600,
+    "confirmed": "2027-02-22"
+  },
+  {
+    "id": "R050",
+    "line": "A050-2",
+    "day": "2027-02-24",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R055",
+    "line": "A055-2",
+    "day": "2027-03-01",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R060",
+    "line": "A060-2",
+    "day": "2027-03-06",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R065",
+    "line": "A065-2",
+    "day": "2027-03-11",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R070",
+    "line": "A070-2",
+    "day": "2027-03-16",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R075",
+    "line": "A075-2",
+    "day": "2027-03-21",
+    "cash": 1800,
+    "returned_voucher": 600,
+    "confirmed": "2027-03-24"
+  },
+  {
+    "id": "R080",
+    "line": "A080-2",
+    "day": "2027-03-26",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R085",
+    "line": "A085-2",
+    "day": "2027-03-31",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R090",
+    "line": "A090-2",
+    "day": "2027-04-05",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R095",
+    "line": "A095-2",
+    "day": "2027-04-10",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R100",
+    "line": "A100-2",
+    "day": "2027-04-15",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R105",
+    "line": "A105-2",
+    "day": "2027-04-20",
+    "cash": 1800,
+    "returned_voucher": 600,
+    "confirmed": "2027-04-23"
+  },
+  {
+    "id": "R110",
+    "line": "A110-2",
+    "day": "2027-04-25",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R115",
+    "line": "A115-2",
+    "day": "2027-04-30",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  },
+  {
+    "id": "R120",
+    "line": "A120-2",
+    "day": "2027-05-05",
+    "cash": 1800,
+    "returned_voucher": null,
+    "confirmed": null
+  }
+]
